@@ -27,9 +27,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -56,19 +53,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -114,9 +98,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Talk about the entire process of user study...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +110,7 @@ Sam Lau - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_cl
 
 Christopher Lum - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Guoxuan Xu - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Guoxuan Xu - [@github_profile](https://github.com/g7xu) - g7xu@ucsd.edu
 
 Paper Link: ...
 
