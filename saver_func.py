@@ -9,6 +9,7 @@ class SaveData:
 
     def __init__(self):
         try:
+            # Initialize the log file
             with open("save_log.csv", "x") as f:
                 f.write("name,time,mem_address\n")
         except:
@@ -26,6 +27,7 @@ class SaveData:
             val, (pd.DataFrame, pd.Series)
         ), "val must be a DataFrame or Series"
 
+        # Only dataframes have .to_html() method
         if isinstance(val, pd.Series):
             val = val.to_frame()
 
