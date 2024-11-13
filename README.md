@@ -51,7 +51,7 @@ repository include the pre-written code we asked our participants to analyze</in
 * **saver_func.py**: helper function that download the entire dataframe visualize
 every entry in html
 
-### user study walk through
+### procedure
 1. Clone the repo
    ```sh
    git clone https://github.com/dstl-lab/Code-Comprehension-User-Study.git
