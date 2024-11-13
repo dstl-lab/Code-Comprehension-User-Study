@@ -58,7 +58,7 @@ every entry in html
    ```
 3. Install environment using conda
    ```sh
-   conda env create -f environment.yml
+   conda env create -f environment.yaml
    ```
 4. Open **data_analytical_problem.ipynb** and introduce the scenario
 5. Participants spent 10 minutes on understanding Task 0 and Task 1
@@ -89,7 +89,7 @@ Paper Link: ...
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [We would like to thank all nine participants who voluntarily joined our user study, contributing valuable insights that enriched our research]()
+* We would like to thank all nine participants who voluntarily joined our user study, contributing valuable insights that enriched our research
 * [Apperciate constributor of this readme template](https://github.com/othneildrew/Best-README-Template/blob/main/BLANK_README.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
