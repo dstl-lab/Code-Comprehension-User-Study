@@ -58,7 +58,7 @@ every entry in html
    ```
 3. Install environment using conda
    ```sh
-   ...............
+   conda env create -f environment.yml
    ```
 4. Open **data_analytical_problem.ipynb** and introduce the scenario
 5. Participants spent 10 minutes on understanding Task 0 and Task 1
