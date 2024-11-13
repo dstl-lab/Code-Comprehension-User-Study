@@ -21,40 +21,21 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Research</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Research
 
 ![Product Name Screen Shot](image/flowchart.png)
 
-This research study the effective methods that novice data scientists can adapte to enhance their
-understanding of pre-written data analytical programs.
+
+This research study the effective methods that novice data scientists can adopt to enhance their
+understanding of pre-written data analytical programs. We conducted user studies with five novice data
+scientists and four expert data scientists. In each study, participants were presented with a pre-written
+data analytical program and asked to use think-aloud method to explain their thought processes.
+Based on their responses, we performed both quantitative and qualitative analyses. The materials in this 
+repository include the pre-written code we asked our participants to analyze.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 
 <!-- GETTING STARTED -->
