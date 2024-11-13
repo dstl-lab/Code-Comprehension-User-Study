@@ -41,11 +41,9 @@ repository include the pre-written code we asked our participants to analyze</in
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## User Study Walk Through
 
-This is an walk through of the user study we have on our participants.
-
-### files
+### Files Descriptions
 * **buoy.txt**: dataset that the program interact with
 
 * **data_analytical_problem.ipynb**: pre-written data analytical program
