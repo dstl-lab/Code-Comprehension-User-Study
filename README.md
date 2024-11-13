@@ -58,11 +58,17 @@ every entry in html
    ```sh
    git clone https://github.com/dstl-lab/Code-Comprehension-User-Study.git
    ```
-3. install environment using conda
+3. Install environment using conda
    ```sh
    ...............
    ```
-4. xxxxx
+4. Open **data_analytical_problem.ipynb** and introduce the scenario
+5. Participants spent 10 minutes on understanding Task 0 and Task 1
+6. Participants rated the difficulties and answered follow up questions
+7. Participants spent 10 minutes on understanding Task 2
+8. Participants rated the difficulties and answered follow up questions
+9. Participants spent 10 minutes on understanding Task 3
+10. Participants rated the difficulties and answered follow up questions
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
