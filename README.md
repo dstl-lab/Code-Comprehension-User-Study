@@ -46,9 +46,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Research
 
-[![Product Name Screen Shot][product-screenshot]](image/flowchart.png)
+![Product Name Screen Shot](image/flowchart.png)
 
-
+This research study the effective methods that novice data scientists can adapte to enhance their
+understanding of pre-written data analytical programs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
