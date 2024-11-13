@@ -43,44 +43,26 @@ repository include the pre-written code we asked our participants to analyze</in
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an walk through of the user study we have on our participants
-We first asked participant to pull down the entire repository.
-We introduce the purpose of each file in the studies
+This is an walk through of the user study we have on our participants.
 
 ### files
-* buoy.txt: dataset that the program interact with
+* **buoy.txt**: dataset that the program interact with
 
-* data_analytical_problem.ipynb: pre-written data analytical program
+* **data_analytical_problem.ipynb**: pre-written data analytical program
 
-* saver_func.py: helper function that download the entire dataframe visualize
+* **saver_func.py**: helper function that download the entire dataframe visualize
 every entry in html
 
 ### user study walk through
-
-
-
-
-
-
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/dstl-lab/Code-Comprehension-User-Study.git
    ```
-3. Install NPM packages
+3. install environment using conda
    ```sh
-   npm install
+   ...............
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
+4. xxxxx
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
