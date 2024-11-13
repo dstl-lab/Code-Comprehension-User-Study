@@ -34,8 +34,8 @@ This research study the effective methods that novice data scientists can adopt 
 understanding of pre-written data analytical programs. We conducted user studies with five novice data
 scientists and four expert data scientists. In each study, participants were presented with a pre-written
 data analytical program and asked to use think-aloud method to explain their thought processes.
-Based on their responses, we performed both quantitative and qualitative analyses. <u>The materials in this 
-repository include the pre-written code we asked our participants to analyze</u>.
+Based on their responses, we performed both quantitative and qualitative analyses. <ins>The materials in this 
+repository include the pre-written code we asked our participants to analyze</ins>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -43,18 +43,25 @@ repository include the pre-written code we asked our participants to analyze</u>
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is an walk through of the user study we have on our participants
+We first asked participant to pull down the entire repository.
+We introduce the purpose of each file in the studies
 
-### Prerequisites
+### files
+* buoy.txt: dataset that the program interact with
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* data_analytical_problem.ipynb: pre-written data analytical program
 
-### Installation
+* saver_func.py: helper function that download the entire dataframe visualize
+every entry in html
+
+### user study walk through
+
+
+
+
+
+
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -74,15 +81,6 @@ This is an example of how to list things you need to use the software and how to
    git remote set-url origin github_username/repo_name
    git remote -v # confirm the changes
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Talk about the entire process of user study...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
