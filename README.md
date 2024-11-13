@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
@@ -106,9 +106,9 @@ Talk about the entire process of user study...
 <!-- CONTACT -->
 ## Contact
 
-Sam Lau - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Sam Lau - [@github_profile](https://github.com/SamLau95) - lau@ucsd.edu
 
-Christopher Lum - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Christopher Lum - [@github_profile](https://github.com/ch-lum) - cslum@ucsd.edu
 
 Guoxuan Xu - [@github_profile](https://github.com/g7xu) - g7xu@ucsd.edu
 
@@ -121,9 +121,8 @@ Paper Link: ...
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [We would like to thank all nine participants who voluntarily joined our user study, contributing valuable insights that enriched our research]()
+* [Apperciate constributor of this readme template](https://github.com/othneildrew/Best-README-Template/blob/main/BLANK_README.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
