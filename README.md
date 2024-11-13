@@ -26,14 +26,16 @@
 ## About The Research
 
 ![Product Name Screen Shot](image/flowchart.png)
+This is a screenshot of our research result
 
+<br><br>
 
 This research study the effective methods that novice data scientists can adopt to enhance their
 understanding of pre-written data analytical programs. We conducted user studies with five novice data
 scientists and four expert data scientists. In each study, participants were presented with a pre-written
 data analytical program and asked to use think-aloud method to explain their thought processes.
-Based on their responses, we performed both quantitative and qualitative analyses. The materials in this 
-repository include the pre-written code we asked our participants to analyze.
+Based on their responses, we performed both quantitative and qualitative analyses. <u>The materials in this 
+repository include the pre-written code we asked our participants to analyze</u>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
