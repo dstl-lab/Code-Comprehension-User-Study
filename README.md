@@ -72,8 +72,24 @@ every entry in html
 | Task 3                   | 10   | 35 - 45             | Participants spent 10 minutes on understanding Task 3.                                                    |
 | Rating & Follow-up 3     | 5    | 45 - 50             | Participants rated the difficulties and answered follow-up questions for Task 3.                          |
 | Interview                | 10    | 50 - 60             | Concluding interview to gather additional comments and feedback.                                          |
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Notebook Details
+Regardless of their level of expertise, participants were represented with the same notebook. Each task in the notebook represents a different stage of the data analytical pipeline: Task 0 represents data cleaning; Task 1 represents missing value assessment; Task 3 represents data imputation; and Task 4 represents evaluating the imputation results.
 
+### Interview Questions
+
+Participants were asked the following questions during the interview phase of the study (due to time constrain, part of the questions were being asked):
+- What information are you trying to gather that you couldn’t from just the default Pandas output?
+- Which rows and columns would you add to the smaller table in order to not need to refer to the larger table? (pick as many as you see fit)
+- What are you thinking about here? What additional information would make this immediate problem easier to solve?
+- What did you find easy or difficult about this task?
+- What did you find to be the most effective way to understand the code?
+- When you looked at the full table from the save() function, broadly, how did you know what to look for?
+- Let’s look at two of your HTML tables. How did you know what to look at on these tables specifically?
+- Do you have any feedback, comments, or questions?
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
