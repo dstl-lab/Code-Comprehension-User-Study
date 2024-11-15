@@ -41,7 +41,7 @@ repository include the pre-written code we asked our participants to analyze</in
 
 
 <!-- GETTING STARTED -->
-## User Study Walk Through
+## User Study Protocol
 
 ### Files Descriptions
 * **buoy.txt**: dataset that the program interact with
@@ -51,7 +51,7 @@ repository include the pre-written code we asked our participants to analyze</in
 * **saver_func.py**: helper function that download the entire dataframe visualize
 every entry in html
 
-### procedure
+### Set Up
 1. Clone the repo
    ```sh
    git clone https://github.com/dstl-lab/Code-Comprehension-User-Study.git
@@ -60,16 +60,41 @@ every entry in html
    ```sh
    conda env create -f environment.yaml
    ```
-4. Open **data_analytical_problem.ipynb** and introduce the scenario
-5. Participants spent 10 minutes on understanding Task 0 and Task 1
-6. Participants rated the difficulties and answered follow up questions
-7. Participants spent 10 minutes on understanding Task 2
-8. Participants rated the difficulties and answered follow up questions
-9. Participants spent 10 minutes on understanding Task 3
-10. Participants rated the difficulties and answered follow up questions
+
+### Procedure
+| Task                     | Time | Time out of 60 | Description                                                                                               |
+|--------------------------|------|----------------|-----------------------------------------------------------------------------------------------------------|
+| Intro                    | 5    | 5              | Open `data_analytical_problem.ipynb` and introduce the scenario.                                          |
+| Task 0 & Task 1          | 10   | 5 - 15        | Participants spent 10 minutes on understanding Task 0 and Task 1.                                         |
+| Rating & Follow-up 1     | 5    | 15 - 20             | Participants rated the difficulties and answered follow-up questions for Task 0 and Task 1.               |
+| Task 2                   | 10   | 20 - 30             | Participants spent 10 minutes on understanding Task 2.                                                    |
+| Rating & Follow-up 2     | 5    | 30 - 35             | Participants rated the difficulties and answered follow-up questions for Task 2.                          |
+| Task 3                   | 10   | 35 - 45             | Participants spent 10 minutes on understanding Task 3.                                                    |
+| Rating & Follow-up 3     | 5    | 45 - 50             | Participants rated the difficulties and answered follow-up questions for Task 3.                          |
+| Interview                | 10    | 50 - 60             | Concluding interview to gather additional comments and feedback.                                          |
+### Notebook Details
+Regardless of their level of expertise, participants were represented with the same notebook. Each task in the notebook represents a different stage of the data analytical pipeline: Task 0 represents data cleaning; Task 1 represents missing value assessment; Task 3 represents data imputation; and Task 4 represents evaluating the imputation results.
+
+### Interview Questions
+
+Participants were asked the following questions during the interview phase of the study (due to time constrain, part of the questions were being asked):
+- What information are you trying to gather that you couldn’t from just the default Pandas output?
+- Which rows and columns would you add to the smaller table in order to not need to refer to the larger table? (pick as many as you see fit)
+- What are you thinking about here? What additional information would make this immediate problem easier to solve?
+- What did you find easy or difficult about this task?
+- What did you find to be the most effective way to understand the code?
+- When you looked broadly at the full table from the save() function, how did you know what to look for?
+- Let’s look at two of your HTML tables. How did you know what to look at on these tables specifically?
+- Do you have any feedback, comments, or questions?
+
+### Participant Responses
+After each task, participants were asked to complete a survey describing their feelings on the task in Google form ([Template](https://docs.google.com/forms/d/e/1FAIpQLSdTyCIK46--Dc7BeiipfQY2fdwvYzYv9q2C_kHfvHpTVPr01w/viewform?usp=sf_link)).
+
+### Participants' Data
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTACT -->
 ## Contact
