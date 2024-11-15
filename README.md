@@ -89,8 +89,10 @@ Participants were asked the following questions during the interview phase of th
 
 ### Participant Responses
 After each task, participants were asked to complete a survey describing their feelings on the task in Google form ([Template](https://docs.google.com/forms/d/e/1FAIpQLSdTyCIK46--Dc7BeiipfQY2fdwvYzYv9q2C_kHfvHpTVPr01w/viewform?usp=sf_link)).
+We also asked for two synonymous data scientists to evaulate participants' response based on the [rubric](./study_data/Code_Comprehension_Grading_Rubric.pdf) we proved.
 
-### Participants' Data
+### Study Data
+All of the data related to the research can be found in study_data folder.
 
 
 
