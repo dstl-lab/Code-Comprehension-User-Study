@@ -83,9 +83,14 @@ Participants were asked the following questions during the interview phase of th
 - What are you thinking about here? What additional information would make this immediate problem easier to solve?
 - What did you find easy or difficult about this task?
 - What did you find to be the most effective way to understand the code?
-- When you looked at the full table from the save() function, broadly, how did you know what to look for?
+- When you looked broadly at the full table from the save() function, how did you know what to look for?
 - Let’s look at two of your HTML tables. How did you know what to look at on these tables specifically?
 - Do you have any feedback, comments, or questions?
+
+### Participant Responses
+After each task, participants were asked to complete a survey describing their feelings on the task in Google form ([Template](https://docs.google.com/forms/d/e/1FAIpQLSdTyCIK46--Dc7BeiipfQY2fdwvYzYv9q2C_kHfvHpTVPr01w/viewform?usp=sf_link)).
+
+### Participants' Data
 
 
 
