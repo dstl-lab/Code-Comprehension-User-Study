@@ -62,6 +62,18 @@ every entry in html
    ```
 
 ### Procedure
+| Task                     | Time | Time out of 60 | Description                                                                                               |
+|--------------------------|------|----------------|-----------------------------------------------------------------------------------------------------------|
+| Intro                    | 5    | 5              | Open `data_analytical_problem.ipynb` and introduce the scenario.                                          |
+| Task 0 & Task 1          | 10   | 5 - 15        | Participants spent 10 minutes on understanding Task 0 and Task 1.                                         |
+| Rating & Follow-up 1     | 5    | 20             | Participants rated the difficulties and answered follow-up questions for Task 0 and Task 1.               |
+| Task 2                   | 10   | 30             | Participants spent 10 minutes on understanding Task 2.                                                    |
+| Rating & Follow-up 2     | 5    | 35             | Participants rated the difficulties and answered follow-up questions for Task 2.                          |
+| Task 3                   | 10   | 45             | Participants spent 10 minutes on understanding Task 3.                                                    |
+| Rating & Follow-up 3     | 5    | 50             | Participants rated the difficulties and answered follow-up questions for Task 3.                          |
+| Open-Ended (Optional)    | 5    | 55             | Optional discussion or additional follow-up questions.                                                    |
+| Interview                | 5    | 60             | Concluding interview to gather additional comments and feedback.                                          |
+
 
 4. Open **data_analytical_problem.ipynb** and introduce the scenario
 5. Participants spent 10 minutes on understanding Task 0 and Task 1
