@@ -41,7 +41,7 @@ repository include the pre-written code we asked our participants to analyze</in
 
 
 <!-- GETTING STARTED -->
-## User Study Walk Through
+## User Study Protocol
 
 ### Files Descriptions
 * **buoy.txt**: dataset that the program interact with
@@ -51,7 +51,7 @@ repository include the pre-written code we asked our participants to analyze</in
 * **saver_func.py**: helper function that download the entire dataframe visualize
 every entry in html
 
-### procedure
+### Set Uo
 1. Clone the repo
    ```sh
    git clone https://github.com/dstl-lab/Code-Comprehension-User-Study.git
@@ -60,6 +60,9 @@ every entry in html
    ```sh
    conda env create -f environment.yaml
    ```
+
+### Procedure
+
 4. Open **data_analytical_problem.ipynb** and introduce the scenario
 5. Participants spent 10 minutes on understanding Task 0 and Task 1
 6. Participants rated the difficulties and answered follow up questions
