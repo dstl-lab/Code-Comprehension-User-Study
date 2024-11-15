@@ -88,13 +88,14 @@ Participants were asked the following questions during the interview phase of th
 - Do you have any feedback, comments, or questions?
 
 ### Participant Responses
-After each task, participants were asked to complete a survey describing their feelings on the task in Google form ([Template](https://docs.google.com/forms/d/e/1FAIpQLSdTyCIK46--Dc7BeiipfQY2fdwvYzYv9q2C_kHfvHpTVPr01w/viewform?usp=sf_link)).
-We also asked for two synonymous data scientists to evaulate participants' response based on the [rubric](./study_data/Code_Comprehension_Grading_Rubric.pdf) we proved.
+After each task, participants were asked to complete a survey describing their feelings on the task in Google form ([Template](https://docs.google.com/forms/d/e/1FAIpQLSdTyCIK46--Dc7BeiipfQY2fdwvYzYv9q2C_kHfvHpTVPr01w/viewform?usp=sf_link)). We also asked for two synonymous data scientists to evaulate participants' response based on the [rubric](./study_data/Code_Comprehension_Grading_Rubric.pdf) we proved.
 
 ### Study Data
 All of the data related to the research can be found in study_data folder.
-
-
+- [`Demographic Information`](./study_data/participants%20demographics.csv): participants' demographic information
+- [`Self Evaluation information`](./study_data/participants%20self%20evaluation.csv): participants self report on the task they have completed
+- [`Assessment on participants`](./study_data/assessment%20on%20participants.csv): 
+performance assessment on participants from two other data scientists
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
