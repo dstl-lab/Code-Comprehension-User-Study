@@ -71,18 +71,7 @@ every entry in html
 | Rating & Follow-up 2     | 5    | 30 - 35             | Participants rated the difficulties and answered follow-up questions for Task 2.                          |
 | Task 3                   | 10   | 35 - 45             | Participants spent 10 minutes on understanding Task 3.                                                    |
 | Rating & Follow-up 3     | 5    | 45 - 50             | Participants rated the difficulties and answered follow-up questions for Task 3.                          |
-| Open-Ended (Optional)    | 5    | 50 - 55             | Optional discussion or additional follow-up questions.                                                    |
-| Interview                | 5    | 55 - 60             | Concluding interview to gather additional comments and feedback.                                          |
-
-
-4. Open **data_analytical_problem.ipynb** and introduce the scenario
-5. Participants spent 10 minutes on understanding Task 0 and Task 1
-6. Participants rated the difficulties and answered follow up questions
-7. Participants spent 10 minutes on understanding Task 2
-8. Participants rated the difficulties and answered follow up questions
-9. Participants spent 10 minutes on understanding Task 3
-10. Participants rated the difficulties and answered follow up questions
-
+| Interview                | 10    | 50 - 60             | Concluding interview to gather additional comments and feedback.                                          |
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
