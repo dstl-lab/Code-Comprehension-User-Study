@@ -108,7 +108,7 @@ Christopher Lum - [@github_profile](https://github.com/ch-lum) - cslum@ucsd.edu
 
 Guoxuan Xu - [@github_profile](https://github.com/g7xu) - g7xu@ucsd.edu
 
-Paper Link: ...
+[Paper Link](https://www.samlau.me/pubs/2025_sigcse_experts_vs_novices_SIGCSE.pdf)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
